@@ -7,3 +7,7 @@ Papers:
 * 2023-05-24 Is GPT-4 a Good Data Analyst? https://arxiv.org/pdf/2305.15038.pdf
 * 2021-06-09 Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data https://arxiv.org/pdf/2106.05006.pdf
 * 2020-06-01 Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback https://arxiv.org/pdf/2005.02539.pdf
+
+Podcast episodes:
+* 2021-10-16 Twiml AI: Generating SQL Database Queries from Natural Language with Yanshuai Cao https://twimlai.com/podcast/twimlai/generating-sql-database-queries-natural-language-yanshuai-cao/
+* 

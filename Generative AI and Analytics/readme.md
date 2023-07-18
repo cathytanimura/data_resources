@@ -1,6 +1,7 @@
 How will Generative AI impact analytics and the business intelligence tool space? 
 
 Papers:
+* 2023-07-17 TableGPT:TowardsUnifyingTables,Nature LanguageandCommandsintoOneGPT https://arxiv.org/pdf/2307.08674
 * 2023-06-09 Can Large Language Models Infer Causation from Correlation? https://arxiv.org/pdf/2306.05836.pdf
 * 2023-06-07 SQL-PaLM: Improved Large Language Model Adaptation for Text-to-SQL https://arxiv.org/pdf/2306.00739.pdf
 * 2023-05-30 Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs https://arxiv.org/pdf/2305.03111.pdf

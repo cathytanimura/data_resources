@@ -16,3 +16,6 @@ Papers:
 Podcast episodes:
 * 2021-10-16 Twiml AI: Generating SQL Database Queries from Natural Language with Yanshuai Cao https://twimlai.com/podcast/twimlai/generating-sql-database-queries-natural-language-yanshuai-cao/
 * 
+
+Companies building natural language-to-SQL:
+* Dataherald (project: https://github.com/Dataherald/dataherald, company: https://www.dataherald.com/)
